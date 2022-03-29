@@ -5,7 +5,7 @@ font-family: 'Lato', sans-serif;
 .header{
         min-height: 100vh;
         width: 100;
-        background-image: linear-gradient(rgba(4, 9, 30, 0.514),rgba(4,9,30,0.7)),url(Images/H5.JPG);
+        background-image: linear-gradient(rgba(4, 9, 30, 0.514),rgba(4,9,30,0.7)),url(images/H5.jpg);
         background-position: center;
         background-size:cover;
         position: relative;
@@ -91,7 +91,7 @@ font-family: 'Lato', sans-serif;
                 }
                 .nav-links{
                         position:absolute;
-                        background: #02fa23;
+                        background: hsl(241, 100%, 58%);
                         height: 100vh;
                         width: 200px;
                         top: 0;
@@ -237,6 +237,10 @@ margin-bottom: 15px;
 text-align: left;
 }
 
+.bottom-container{
+        background-color:#ffff;
+        
+}
 
 
 
